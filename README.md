@@ -7,12 +7,7 @@
 ## Built With
 
 - HTML/CSS
-- Frameworks
-- Technologies used
-
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
+- linters for (html & CSS)
 
 ## Getting Started
 
@@ -24,14 +19,6 @@ To get a local copy up and running follow these simple example steps.
 ### Prerequisites
 
 - You need to have Node Package Manager (npm) installed.
-
-### Setup
-
-### Install
-
-### Usage
-
-### Deployment
 
 ## Authors
 
